@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
 import crypto from 'crypto';
 import './App.css';
 import ExpenseForm from './expense-form';
